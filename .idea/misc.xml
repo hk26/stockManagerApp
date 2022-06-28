@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/padhailikhai/extra mad mini/app/src/main/res/drawable/custom_border.xml" value="0.2703125" />
+        <entry key="..\:/padhailikhai/extra mad mini/app/src/main/res/drawable/custom_button.xml" value="0.2703125" />
+        <entry key="..\:/padhailikhai/extra mad mini/app/src/main/res/layout/activity_contact.xml" value="0.25416666666666665" />
+        <entry key="..\:/padhailikhai/extra mad mini/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/padhailikhai/extra mad mini/app/src/main/res/layout/activity_profit_calculator.xml" value="0.264" />
+        <entry key="..\:/padhailikhai/extra mad mini/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/padhailikhai/extra mad mini/app/src/main/res/layout/activity_stock_list.xml" value="0.25025641025641027" />
+        <entry key="..\:/padhailikhai/extra mad mini/app/src/main/res/layout/activity_to_do.xml" value="0.264" />
+        <entry key="..\:/padhailikhai/extra mad mini/app/src/main/res/layout/single_item_detail.xml" value="0.264" />
+        <entry key="..\:/padhailikhai/extra mad mini/app/src/main/res/layout/single_row_numbers.xml" value="0.25416666666666665" />
+        <entry key="..\:/padhailikhai/extra mad mini/app/src/main/res/layout/single_stock_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/padhailikhai/sem 5/1.Subjects/4.MAD/MAD Mini project/extra mad mini/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/padhailikhai/sem 5/Subjects/MAD/MAD Mini project/extra mad mini/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/padhailikhai/sem 5/Subjects/MAD/MAD Mini project/extra mad mini/app/src/main/res/layout/activity_profit_calculator.xml" value="0.25416666666666665" />
+        <entry key="..\:/padhailikhai/sem 5/Subjects/MAD/MAD Mini project/extra mad mini/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/padhailikhai/sem 5/Subjects/MAD/MAD Mini project/extra mad mini/app/src/main/res/layout/activity_stock_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/padhailikhai/sem 5/Subjects/MAD/MAD Mini project/extra mad mini/app/src/main/res/layout/activity_to_do.xml" value="0.25416666666666665" />
+        <entry key="..\:/padhailikhai/sem 5/Subjects/MAD/MAD Mini project/extra mad mini/app/src/main/res/layout/single_row_numbers.xml" value="0.25416666666666665" />
+        <entry key="..\:/padhailikhai/sem 5/Subjects/MAD/MAD Mini project/extra mad mini/app/src/main/res/layout/single_stock_layout.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
